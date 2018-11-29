@@ -1,17 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="javascript.js"></script>
+
     <link rel="stylesheet" type="text/css" href="style.css">
     <meta charset="UTF-8">
     <title>Söögid</title>
 </head>
-<body>
-<h1>Restoran ABC</h1>
+
+<body id="body_bg">
+
+<h1>
+    <center>Restoran ABC</center>
+</h1>
 <!-- Menüüriba -->
 <div>
     <ul>
         <li><a href="avaleht.html">Avaleht</a></li>
-        <li><a href="menuu.html">Menüü</a></li>
+        <li><a href="soogid.html">Menüü</a></li>
         <li><a href="kontakt.html">Kontakt</a></li>
     </ul>
 </div>
@@ -23,14 +30,38 @@
         <li><a href="joogid.html">Joogid</a></li>
         <li><a href="magustoidud.html">Magustoidud</a></li>
     </ul>
+
+    <img id="lohe" src="menuupildid/lohe.jpg" alt="Lõhe" border="2px" style="border-color: white">
+    <img id="pasta" src="menuupildid/pasta.jpg" alt="Pasta" border="2px" style="border-color: white">
+    <img id="tomatisupp" src="menuupildid/tomatisupp.jpg" alt="Tomatisupp" border="2px" style="border-color: white">
+    <img id="taimetoit" src="menuupildid/vegandish.jpg" alt="Taimetoit" border="2px" style="border-color: white">
+
+
+    <div id="par">
+        <br>
+        Lõhe<br>
+        <br>
+        8.50€
+    </div>
+    <div id="par">
+        <br>
+        Pasta<br>
+        <br>
+        7.50€
+    </div>
+    <div id="par">
+        <br>
+        Tomatisupp<br>
+        <br>
+        5€
+    </div>
+    <div id="par">
+        <br>
+        Vegan salat<br>
+        <br>
+        13€
+    </div>
+
 </div>
-
-
-<div id="sisemine_menuu_text">
-    Lammas - 10€ <br>
-    Kana - 5€ <br>
-    Siga - 8€
-</div>
-
 </body>
 </html>

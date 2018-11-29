@@ -13,11 +13,11 @@
     - Maris Räis
     
 * Milline on tiimisisene tööjaotus?
-    - Maris tegeleb ...
+    - Maris tegeleb menüüga
     - Grete tegeleb ...
     - Ralf tegeleb ...
     
 * Millised raskused esinesid? Mida õppisite?
-    1. Ühe raskusena..
+    1. Ühe raskusena HTML-i, css-i ja javascripti esmakordne kasutamine.
     2. Lisaks ..
     3. ...
