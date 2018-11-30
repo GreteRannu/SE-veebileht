@@ -159,3 +159,24 @@ li a:hover {
 	text-align: center;
 	font-family: Calibri;
 }
+
+.header {
+	height: 120px;
+	border: 1px solid black;
+	background-image:  url("https://goo.gl/3REs1c")
+}
+
+.header > h1 {
+	color: gray;
+	font-family: Calibri;
+	font-weight: 120;
+	font-size: 64px;
+	text-transform: uppercase;
+	margin-left: 30px;
+	letter-spacing: 2px;
+	-webkit-text-fill-color: white;
+	-webkit-text-stroke-width: 1px;
+	position: absolute;
+	top: 0;
+	left: 30px;
+}
