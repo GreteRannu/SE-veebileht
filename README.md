@@ -14,7 +14,7 @@
     
 * Milline on tiimisisene tööjaotus?
     - Maris tegeleb menüüga, mis sisaldab söögid/joogid/magustoidud. Üritasin kasutada Javascripti(raske), lisasin taustapildi ja pildid söökidest.
-    - Grete tegeleb ...
+    - Grete tegeleb avalehega, lehe päis ja jalus.
     - Ralf tegeleb kontaktide lehega, mis sisaldab üldinfot ja tulevaid üritusi.
     
 * Millised raskused esinesid? Mida õppisite?
@@ -23,3 +23,5 @@
     3. Prokrastineerimine ja selle vältimine.
 	4. kodu.ut.ee kasutamine.
 	5. Stiili- ja skriptifailide ühildamine.
+	6. Ühtlase stiili säilitamine läbi lehekülgede.
+	7. Piltide avamine url läbi.
